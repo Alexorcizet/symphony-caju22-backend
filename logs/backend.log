@@ -1,0 +1,97 @@
+21.12.2022, 13:26:45 - DEBUG - Getting Stations
+21.12.2022, 13:27:46 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 13:27:46 - INFO - New connected socket [id: pBYPoTWd0HozaH7WAAAR]
+21.12.2022, 13:27:47 - DEBUG - Getting Stations
+21.12.2022, 13:27:47 - DEBUG - Getting Stations
+21.12.2022, 13:29:09 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 13:29:10 - INFO - New connected socket [id: qjiGHpA2KwQfF-1mAAAT]
+21.12.2022, 13:29:10 - DEBUG - Getting Stations
+21.12.2022, 13:29:11 - DEBUG - Getting Stations
+21.12.2022, 13:30:06 - DEBUG - Getting Stations
+21.12.2022, 13:30:48 - ERROR - cannot remove station undefined | {}
+21.12.2022, 13:30:48 - ERROR - Failed to remove station | {}
+21.12.2022, 13:33:45 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 13:33:46 - INFO - New connected socket [id: WPMTBJrTNh8m86F1AAAV]
+21.12.2022, 13:33:46 - DEBUG - Getting Stations
+21.12.2022, 13:34:01 - ERROR - cannot remove station undefined | {}
+21.12.2022, 13:34:01 - ERROR - Failed to remove station | {}
+21.12.2022, 18:40:10 - INFO - Server is running on port: 3030
+21.12.2022, 18:40:23 - INFO - New connected socket [id: _i5M7LkGku1h6N4zAAAB]
+21.12.2022, 18:40:23 - DEBUG - Getting Stations
+21.12.2022, 18:42:33 - DEBUG - Getting Stations
+21.12.2022, 18:42:57 - DEBUG - Getting Stations
+21.12.2022, 18:42:59 - DEBUG - Getting Stations
+21.12.2022, 18:43:35 - DEBUG - auth.service - login with username: Alexorcizet
+21.12.2022, 18:43:36 - INFO - User login:  | {"_id":"63905d9e3ee4a7d27903be7b","username":"Alexorcizet","fullname":"Alexorcizet","isAdmin":true,"imgUrl":null,"createdStations":["63908862155f6557847548bf","63908b03155f6557847548c1","63908bd9155f6557847548c2","63908c03c11ec9b34c9ef524","63908c32c11ec9b34c9ef527","63a1552cc355e7d367b2af2b","63a160827df2b536ff30330a","63a2b25ead5bebb11b08d364","63a2b454ad5bebb11b08d367","63a2b8eead5bebb11b08d36a","63a2b94dad5bebb11b08d36c","63a2ba6fad5bebb11b08d36f","63a2cf00ad5bebb11b08d375","63a2dc24ad5bebb11b08d377","63a2dc95ad5bebb11b08d379","63a2de91ad5bebb11b08d37b","63a2deefad5bebb11b08d37d","63a2df3aad5bebb11b08d37f","63a2dfa5ad5bebb11b08d381","63a2dff7ad5bebb11b08d383","63a2e04ead5bebb11b08d385","63a2e0caad5bebb11b08d387","63a2e27c5d744b89d82e4041","63a2e3d1435eaef7a7bebc59","63a2e46b435eaef7a7bebc5b","63a2e4fd435eaef7a7bebc5d"],"likedStations":[],"recentSearches":[{"_id":"63a2e0f0ad5bebb11b08d388","title":"Nsync"},{"_id":"63a2e0b6ad5bebb11b08d386","title":"britney spears"},{"_id":"63a2e025ad5bebb11b08d384","title":"backstreet boys"},{"_id":"63a2dfaaad5bebb11b08d382","title":"lil wayne"},{"_id":"63a2df4bad5bebb11b08d380","title":"tupac"},{"_id":"63a2deffad5bebb11b08d37e","title":"jay z"},{"_id":"63a2de95ad5bebb11b08d37c","title":"dr dre"},{"_id":"63a2dc98ad5bebb11b08d37a","title":"eminem"},{"_id":"63a2dc29ad5bebb11b08d378","title":"snoop dogg"},{"_id":"63a2dbe0ad5bebb11b08d376","title":"biggie"}],"recentlyPlayedClips":[{"_id":"PbgKEjNBHqM","title":"Nirvana - In Bloom","img":{"url":"https://i.ytimg.com/vi/PbgKEjNBHqM/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":4,"sec":58}},{"_id":"qv96yJYhk3M","title":"Nirvana - You Know You're Right","img":{"url":"https://i.ytimg.com/vi/qv96yJYhk3M/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":3,"sec":42}},{"_id":"R3XIGon2RjY","title":"Nirvana - Smells Like Teen Spirit","img":{"url":"https://i.ytimg.com/vi/R3XIGon2RjY/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":5,"sec":31}},{"_id":"4VxdufqB9zg","title":"Nirvana - Something In The Way","img":{"url":"https://i.ytimg.com/vi/4VxdufqB9zg/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":3,"sec":51}},{"_id":"n6P0SitRwy8","title":"Nirvana - Heart-Shaped Box","img":{"url":"https://i.ytimg.com/vi/n6P0SitRwy8/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":4,"sec":43}},{"_id":"pkcJEvMcnEg","title":"Nirvana - Lithium","img":{"url":"https://i.ytimg.com/vi/pkcJEvMcnEg/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":4,"sec":16}},{"_id":"vabnZ9-ex7o","title":"Nirvana - Come As You Are","img":{"url":"https://i.ytimg.com/vi/vabnZ9-ex7o/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":3,"sec":45}},{"_id":"fregObNcHC8","title":"Nirvana - The Man Who Sold The World","img":{"url":"https://i.ytimg.com/vi/fregObNcHC8/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":3,"sec":38}},{"_id":"hTWKbfoikeg","title":"Nirvana - Smells Like Teen Spirit","img":{"url":"https://i.ytimg.com/vi/hTWKbfoikeg/default.jpg","width":120,"height":90},"artist":"Nirvana","duration":{"hours":0,"min":4,"sec":39}},{"_id":"LDZX4ooRsWs","img":{"url":"https://i.ytimg.com/vi/LDZX4ooRsWs/default.jpg","width":120,"height":90},"title":"Nicki Minaj - Anaconda","artist":"Nicki Minaj","duration":{"hours":0,"min":4,"sec":49},"addedAt":1663743790,"likedByUsers":[]}],"likedSongs":[{"_id":"A1OqtIqzScI","img":{"url":"https://i.ytimg.com/vi/A1OqtIqzScI/default.jpg","width":120,"height":90},"title":"Green Day - Holiday","artist":"Green Day","duration":{"hours":0,"min":4,"sec":41},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"},{"_id":"bSfpSOBD30U","img":{"url":"https://i.ytimg.com/vi/bSfpSOBD30U/default.jpg","width":120,"height":90},"title":"G-Eazy x Bebe Rexha - Me, Myself & I","artist":"G-Eazy x Bebe Rexha","duration":{"hours":0,"min":5,"sec":48},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"},{"_id":"K_9tX4eHztY","img":{"url":"https://i.ytimg.com/vi/K_9tX4eHztY/default.jpg","width":120,"height":90},"title":"Future - Low Life ft. The Weeknd","artist":"Future ft. The Weeknd","duration":{"hours":0,"min":5,"sec":23},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"},{"_id":"qMwcsIY1GYE","img":{"url":"https://i.ytimg.com/vi/qMwcsIY1GYE/default.jpg","width":120,"height":90},"title":"O.T. Genasis - Cut It (feat. Young Dolph) ","artist":"O.T. Genasis","duration":{"hours":0,"min":3,"sec":48},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"},{"_id":"Gd9OhYroLN0","img":{"url":"https://i.ytimg.com/vi/Gd9OhYroLN0/default.jpg","width":120,"height":90},"title":"Crawling - Linkin Park","artist":"Linkin Park","duration":{"hours":0,"min":3,"sec":36},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"},{"_id":"lsJLLEwUYZM","img":{"url":"https://i.ytimg.com/vi/lsJLLEwUYZM/default.jpg","width":120,"height":90},"title":"Desiigner- Panda Prod. By: Menace","artist":"Desiigner","duration":{"hours":0,"min":4,"sec":8},"addedAt":1663743790,"likedByUsers":[],"LikedAt":"20.12.2022"}],"followers":[],"following":[]}
+21.12.2022, 18:43:42 - DEBUG - Getting Stations
+21.12.2022, 18:43:51 - ERROR - cannot remove station undefined | {}
+21.12.2022, 18:43:51 - ERROR - Failed to remove station | {}
+21.12.2022, 18:44:05 - INFO - Socket is leaving topic 63a337be02415c38d5b55e88 [id: _i5M7LkGku1h6N4zAAAB]
+21.12.2022, 18:44:10 - INFO - Socket is leaving topic 63a2e4fd435eaef7a7bebc5d [id: _i5M7LkGku1h6N4zAAAB]
+21.12.2022, 18:44:11 - DEBUG - Getting Stations
+21.12.2022, 18:44:16 - ERROR - cannot remove station undefined | {}
+21.12.2022, 18:44:16 - ERROR - Failed to remove station | {}
+21.12.2022, 18:44:20 - DEBUG - Getting Stations
+21.12.2022, 18:44:33 - INFO - Socket is leaving topic 63a337be02415c38d5b55e88 [id: _i5M7LkGku1h6N4zAAAB]
+21.12.2022, 18:44:33 - DEBUG - Getting Stations
+21.12.2022, 18:44:36 - INFO - Socket is leaving topic 63a337be02415c38d5b55e88 [id: _i5M7LkGku1h6N4zAAAB]
+21.12.2022, 18:44:36 - DEBUG - Getting Stations
+21.12.2022, 18:44:43 - ERROR - cannot remove station undefined | {}
+21.12.2022, 18:44:43 - ERROR - Failed to remove station | {}
+21.12.2022, 18:49:57 - DEBUG - Getting Stations
+21.12.2022, 18:50:00 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 18:50:01 - INFO - New connected socket [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:50:01 - DEBUG - Getting Stations
+21.12.2022, 18:50:03 - INFO - Socket is leaving topic 63a2e4fd435eaef7a7bebc5d [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:50:03 - DEBUG - Getting Stations
+21.12.2022, 18:50:11 - DEBUG - Getting Stations
+21.12.2022, 18:50:20 - INFO - Socket is leaving topic 63a2e4fd435eaef7a7bebc5d [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:50:20 - DEBUG - Getting Stations
+21.12.2022, 18:51:15 - DEBUG - Getting Stations
+21.12.2022, 18:51:28 - INFO - Socket is leaving topic 63a2e4fd435eaef7a7bebc5d [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:51:28 - DEBUG - Getting Stations
+21.12.2022, 18:54:31 - INFO - Socket is leaving topic 63a2e4fd435eaef7a7bebc5d [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:54:31 - DEBUG - Getting Stations
+21.12.2022, 18:56:45 - INFO - Socket is leaving topic 63a33a4702415c38d5b55e8c [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:56:45 - DEBUG - Getting Stations
+21.12.2022, 18:59:07 - INFO - Socket is leaving topic 63a33acd02415c38d5b55e8d [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 18:59:07 - DEBUG - Getting Stations
+21.12.2022, 19:01:03 - INFO - Socket is leaving topic 63a33b5b02415c38d5b55e8e [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:01:03 - DEBUG - Getting Stations
+21.12.2022, 19:02:09 - INFO - Socket is leaving topic 63a33bce02415c38d5b55e8f [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:02:09 - DEBUG - Getting Stations
+21.12.2022, 19:03:18 - INFO - Socket is leaving topic 63a33c1102415c38d5b55e90 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:03:18 - DEBUG - Getting Stations
+21.12.2022, 19:04:41 - INFO - Socket is leaving topic 63a33c5602415c38d5b55e91 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:04:41 - DEBUG - Getting Stations
+21.12.2022, 19:06:07 - INFO - Socket is leaving topic 63a33ca902415c38d5b55e92 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:06:07 - DEBUG - Getting Stations
+21.12.2022, 19:07:39 - INFO - Socket is leaving topic 63a33cfe02415c38d5b55e93 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:07:39 - DEBUG - Getting Stations
+21.12.2022, 19:08:45 - INFO - Socket is leaving topic 63a33cfe02415c38d5b55e93 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:08:45 - DEBUG - Getting Stations
+21.12.2022, 19:09:56 - INFO - Socket is leaving topic 63a33d9d02415c38d5b55e94 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:09:56 - DEBUG - Getting Stations
+21.12.2022, 19:11:04 - DEBUG - Getting Stations
+21.12.2022, 19:11:29 - INFO - Socket is leaving topic 63a33de402415c38d5b55e95 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:11:29 - DEBUG - Getting Stations
+21.12.2022, 19:12:51 - INFO - Socket is leaving topic 63a33e4102415c38d5b55e96 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:12:51 - DEBUG - Getting Stations
+21.12.2022, 19:14:06 - INFO - Socket is leaving topic 63a33e9302415c38d5b55e97 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:14:07 - DEBUG - Getting Stations
+21.12.2022, 19:15:24 - INFO - Socket is leaving topic 63a33ede02415c38d5b55e98 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:15:24 - DEBUG - Getting Stations
+21.12.2022, 19:18:23 - INFO - Socket is leaving topic 63a33f2b02415c38d5b55e99 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:18:23 - DEBUG - Getting Stations
+21.12.2022, 19:19:33 - DEBUG - Getting Stations
+21.12.2022, 19:19:38 - INFO - Socket is leaving topic 63a33fdf02415c38d5b55e9a [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:19:47 - INFO - Socket is leaving topic 63905b72545eee0eb2829138 [id: 1cRdp8_GgDNFu6u9AAAD]
+21.12.2022, 19:19:47 - DEBUG - Getting Stations
+21.12.2022, 19:22:42 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 19:22:43 - INFO - New connected socket [id: slIxeLozupkUGjp8AAAF]
+21.12.2022, 19:22:43 - DEBUG - Getting Stations
+21.12.2022, 19:22:49 - DEBUG - Getting Stations
+21.12.2022, 19:25:02 - INFO - Socket disconnected [id: undefined]
+21.12.2022, 19:25:02 - INFO - New connected socket [id: 9Rcf6tMjB3EkYPCjAAAH]
+21.12.2022, 19:25:02 - DEBUG - Getting Stations
+21.12.2022, 19:25:07 - DEBUG - Getting Stations
