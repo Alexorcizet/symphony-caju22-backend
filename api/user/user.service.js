@@ -61,7 +61,6 @@ async function remove(userId) {
 }
 
 async function update(user) {
-    console.log('user update', user)
     try {
         var id = ObjectId(user._id)
         delete user._id

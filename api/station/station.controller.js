@@ -56,8 +56,6 @@ async function updateStation(req, res) {
 // DELETE
 async function removeStation(req, res) {
     const stationId = req.params.stationId
-    console.log('req.params', req.params)
-    console.log('stationId', stationId)
     try {
         await stationService.remove(stationId)
         res.send({ msg: 'Removed succesfully' })
